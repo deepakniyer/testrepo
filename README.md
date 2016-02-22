@@ -2,5 +2,5 @@
 Test repo
 
 Test !!
-Test2, yeah!!
-Test3, yeah !!
+Test2 !!
+Test3 !!
