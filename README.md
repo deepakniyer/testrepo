@@ -1,7 +1,7 @@
 # testrepo
 Test repo
 
-Test !!
-Test2 !!
-Test3 !!
-Test4 !! beaut !!
+Test !! 
+Test2 !! 
+Test3 !! 
+Test4 !!
